@@ -1,1 +1,1 @@
-This is our private repo
+MY ALX CLASS WITH BRIGHT.ICT
