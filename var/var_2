@@ -1,0 +1,9 @@
+#!/bin/bash
+
+echo "Username? " 
+
+read name 
+
+read -s -p "What is your password? " password
+
+echo "Your username is $name, your password is $password"

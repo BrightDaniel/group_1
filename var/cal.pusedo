@@ -1,0 +1,17 @@
+My pseudo code to create a simple cal program.
+
+Step 1: Ask user for number one and store it.
+
+Step 2: Ask for operator and then store it.
+
+Step 3: Ask for the second number then store it.
+
+Step 4: Depending on the user input, perform the calculation
+	If the user inputs +, then add num1 + num2.
+	If the user inputs -, then add num1 - num2.
+	If the user inputs *, then add num1 * num2.
+	If the user inputs /, then add num1 / num2.
+
+Step 5: Print out the results of step 4.
+
+

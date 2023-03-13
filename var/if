@@ -1,0 +1,22 @@
+#!/bin/bash
+
+read -p "What is your name: " name
+
+read -p "What is your cohort: " cohort
+
+read -p "What is your score: " score
+
+
+if [ $score -lt 80 ]
+then
+	echo "Sorry you are out"
+
+elif [$score == 80 ]
+then
+	echo "Na God save you"
+
+else
+	echo "Congratulations"
+fi
+
+

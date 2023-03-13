@@ -1,0 +1,11 @@
+#!/bin/bash
+
+#creating variables
+
+
+firstname="Bwave"
+lastname="Victor"
+
+echo "My name is  $lastname $firstname"
+
+
