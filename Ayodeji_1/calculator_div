@@ -1,0 +1,11 @@
+#!/bin/bash
+
+echo "Enter the dividend: "
+read dividend
+
+echo "Enter the divisor: "
+read divisor
+
+quotient=$((dividend / divisor))
+
+echo "The quotient of $dividend and $divisor is: $quotient"
